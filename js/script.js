@@ -5,18 +5,42 @@
     continous = true,
     autoplay = true,
     playlist = [
-    {
+      {
         "title": "麦田",
         "artist": "纯音乐"
-    },
-    {
+      },
+      {
         "title": "Childhood Memory",
         "artist": "班得瑞"
-    },
-    {
+      },
+      {
         "title": "1945完整演奏版",
         "artist": "海角七号"
-    }
+      },
+      {
+        "title": "卡农新混音版",
+        "artist": "纯音乐"
+      },
+      {
+        "title": "菊次郎的夏天",
+        "artist": "久石让"
+      },
+      {
+        "title": "时代を越える想い",
+        "artist": "犬夜叉原声带"
+      },
+      {
+        "title": "梦中的婚礼",
+        "artist": "里查德·克莱德曼"
+      },
+      {
+        "title": "水边的阿狄丽娜",
+        "artist": "里查德·克莱德曼"
+      },
+      {
+        "title": "那年的愿望",
+        "artist": "好妹妹乐队"
+      }
 ]
 
   // Load playlist
