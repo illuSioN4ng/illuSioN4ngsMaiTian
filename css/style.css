@@ -84,9 +84,10 @@ a {
 #player .ctrl .tag strong, #player .ctrl .tag span {
   display: block;
   text-overflow: ellipsis;
+  text-shadow: none;
 }
 #player .ctrl .tag span {
-  font-size: 12px;
+  font-size: 14px;
   margin-top: 5px;
   color: #ccc;
 }
