@@ -239,7 +239,7 @@ a {
   position: relative;
 }
 #playlist {
-  background-color: rgba(100, 100, 100, 0.1);
+  background-color: rgba(100, 100, 100, 0.5);
   width: 470px;
   margin: 0 auto;
   padding: 10px 15px;

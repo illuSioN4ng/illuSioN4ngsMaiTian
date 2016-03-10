@@ -40,6 +40,34 @@
       {
         "title": "那年的愿望",
         "artist": "好妹妹乐队"
+      },
+      {
+        "title": "你曾是少年",
+        "artist": "S.H.E"
+      },
+      {
+        "title": "安妮的仙境",
+        "artist": "班得瑞"
+      },
+      {
+        "title": "房间",
+        "artist": "刘瑞琦"
+      },
+      {
+        "title": "抉择",
+        "artist": "好妹妹乐队"
+      },
+      {
+        "title": "是非题",
+        "artist": "范玮琪"
+      },
+      {
+        "title": "直觉",
+        "artist": "孙伯纶"
+      },
+      {
+        "title": "莫失莫忘",
+        "artist": "纯音乐"
       }
 ]
 
