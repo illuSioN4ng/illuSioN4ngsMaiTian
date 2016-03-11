@@ -164,11 +164,14 @@
   // Volume slider
   var setVolume = function(value){
     audio.volume = localStorage.volume = value;
+    //console.log(localStorage.volume);
     $('.volume .pace').css('width', value * 100 + '%');
     $('.volume .slider a').css('left', value * 100 + '%');
   }
 
-  var volume = localStorage.volume || 0.5;
+  var volume = localStorage.volume || 0.3;
+  //console.log(localStorage.volume);
+  //console.log(volume);
   $('.volume .slider').slider({max: 1, min: 0, step: 0.01, value: volume, slide: function(event, ui){
     setVolume(ui.value);
     $(this).addClass('enable');
