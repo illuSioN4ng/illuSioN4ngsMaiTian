@@ -254,6 +254,8 @@ a {
   -webkit-box-shadow: 0 0 2px #999;
   -o-box-shadow: 0 0 2px #999;
   box-shadow: 0 0 2px #999;
+  /*height: 500px;*/
+  /*overflow: scroll;*/
 }
 #playlist li {
   font-family: "Microsoft Yahei";
