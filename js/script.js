@@ -108,6 +108,50 @@
       {
         "title": "阴天快乐",
         "artist": "陈奕迅"
+      },
+      {
+        "title": "As Long As You Love Me",
+        "artist": "Backstreet Boys"
+      },
+      {
+        "title": "Beautiful Love",
+        "artist": "蔡健雅"
+      },
+      {
+        "title": "后会无期",
+        "artist": "G.E.M.邓紫棋"
+      },
+      {
+        "title": "眉间雪",
+        "artist": "HITA"
+      },
+      {
+        "title": "My Love",
+        "artist": "Westlife"
+      },
+      {
+        "title": "言叶之庭",
+        "artist": "rain"
+      },
+      {
+        "title": "风的季节",
+        "artist": "Soler"
+      },
+      {
+        "title": "不再联系",
+        "artist": "夏天Alex"
+      },
+      {
+        "title": "比翼の羽根",
+        "artist": "缘之空"
+      },
+      {
+        "title": "爱情转移",
+        "artist": "陈奕迅"
+      },
+      {
+        "title": "你看不到的天空",
+        "artist": "蔡旻佑"
       }
 ]
 
