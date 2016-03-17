@@ -152,6 +152,34 @@
       {
         "title": "你看不到的天空",
         "artist": "蔡旻佑"
+      },
+      {
+        "title": "彼幕苍年",
+        "artist": "纯音乐"
+      },
+      {
+        "title": "Tomorrow With You",
+        "artist": "Senpai,Kondor"
+      },
+      {
+        "title": "Town of Windmill",
+        "artist": "a_hisa"
+      },
+      {
+        "title": "My song for you",
+        "artist": "班得瑞"
+      },
+      {
+        "title": "又想起你",
+        "artist": "回音哥"
+      },
+      {
+        "title": "想想我",
+        "artist": "李祥祥"
+      },
+      {
+        "title": "现在才明白",
+        "artist": "萧贺硕"
       }
 ]
 
